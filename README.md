@@ -1,6 +1,6 @@
 # merge-together
 this
 is
-a
+some
 random
 text
